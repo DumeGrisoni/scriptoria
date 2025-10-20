@@ -1,15 +1,2 @@
 @import 'tailwindcss';
 @import 'tw-animate-css';
-
-* {
-  margin: 0;
-  box-sizing: border-box;
-}
-.main {
-  background-color: black;
-  color: '#e2e8f0';
-}
-nav {
-  background-color: '#f8fafc';
-  color: '#1f2937';
-}

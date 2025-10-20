@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="min-h-screen flex flex-col  w-full justify-start items-center">
       <Navbar />
-      <div className="pt-20 w-full main text-slate-200">
+      <div className="pt-20 w-full bg-slate-950 text-slate-50">
         <Outlet />
       </div>
     </div>
